@@ -1,7 +1,7 @@
 body {
     margin: 0 auto;
     background-color: black;
-    width: 80%;
+    width: 90%;
     font-family: "Verdana", sans;
     font-size: 21px;
     color: gray;
@@ -16,6 +16,14 @@ header h1 {
 }
 
 a {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+    text-align: center;
+}
+
+header a {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
