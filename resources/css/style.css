@@ -20,6 +20,7 @@ a {
     font-size: 16px;
     text-align: center;
     text-decoration: underline;
+    text-align: center;
 }
 
 p {
@@ -36,6 +37,7 @@ h1 {
     font-size: 42px;
     font-weight: 300;
     color: white;
+    text-align: center;
 }
 
 footer {
@@ -43,10 +45,3 @@ footer {
     color: gray;
 }
 
-.camp img {
-    width: 50%;
-}
-
-.phone img {
-    width: 50%;
-}
