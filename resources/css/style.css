@@ -1,0 +1,52 @@
+body {
+    margin: 0 auto;
+    background-color: black;
+    width: 80%;
+    font-family: "Verdana", sans;
+    font-size: 21px;
+    color: gray;
+}
+
+header h1 {
+    color: white;
+    font-family: "Verdana", Sans;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+.main {
+    width: 100%;
+    margin: auto;
+}
+
+h1 {
+    font-family: "Verdana", sans;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+.camp img {
+    width: 50%;
+}
+
+.phone img {
+    width: 50%;
+}
