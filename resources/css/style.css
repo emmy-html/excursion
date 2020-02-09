@@ -7,6 +7,11 @@ body {
     color: gray;
 }
 
+header {
+    margin: auto;
+    text-align: center;
+}
+
 header h1 {
     color: white;
     font-family: "Verdana", Sans;
@@ -16,14 +21,6 @@ header h1 {
 }
 
 a {
-    color: aquamarine;
-    font-size: 16px;
-    text-align: center;
-    text-decoration: underline;
-    text-align: center;
-}
-
-header a {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
